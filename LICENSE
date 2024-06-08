@@ -1,6 +1,7 @@
 Attribution 4.0 International
 
-=======================================================================
+==Control + Shift + m 
+====================================================================
 
 Creative Commons Corporation ("Creative Commons") is not a law firm and
 does not provide legal services or legal advice. Distribution of
@@ -10,9 +11,10 @@ information available on an "as-is" basis. Creative Commons gives no
 warranties regarding its licenses, any material licensed under their
 terms and conditions, or any related information. Creative Commons
 disclaims all liability for damages resulting from their use to the
-fullest extent possible.
+fu-llest extent possible.
 
 Using Creative Commons Public Licenses
++Control + Shift + m
 
 Creative Commons public licenses provide a standard set of terms and
 conditions that creators and other rights holders may use to share
@@ -34,7 +36,7 @@ exhaustive, and do not form part of our licenses.
     licensed material, or material used under an exception or
     limitation to copyright. More considerations for licensors:
     wiki.creativecommons.org/Considerations_for_licensors
-
+-
     Considerations for the public: By using one of our public
     licenses, a licensor grants the public permission to use the
     licensed material under specified terms and conditions. If
@@ -50,9 +52,7 @@ exhaustive, and do not form part of our licenses.
     Although not required by our licenses, you are encouraged to
     respect those requests where reasonable. More considerations
     for the public:
-    wiki.creativecommons.org/Considerations_for_licensees
-
-=======================================================================
+    wiki.creativecommons.org/Considerations_for_licensees==================================================================
 
 Creative Commons Attribution 4.0 International Public License
 
@@ -65,7 +65,8 @@ these terms and conditions, and the Licensor grants You such rights in
 consideration of benefits the Licensor receives from making the
 Licensed Material available under these terms and conditions.
 
-Section 1 -- Definitions.
+
+Control + Shift + m
 
   a. Adapted Material means material subject to Copyright and Similar
      Rights that is derived from or based upon the Licensed Material
@@ -89,7 +90,7 @@ Section 1 -- Definitions.
      specified in Section 2(b)(1)-(2) are not Copyright and Similar
      Rights.
 
-  d. Effective Technological Measures means those measures that, in the
+Effective Technological Measures means those measures that, in the
      absence of proper authority, may not be circumvented under laws
      fulfilling obligations under Article 11 of the WIPO Copyright
      Treaty adopted on December 20, 1996, and/or similar international
@@ -99,16 +100,16 @@ Section 1 -- Definitions.
      any other exception or limitation to Copyright and Similar Rights
      that applies to Your use of the Licensed Material.
 
-  f. Licensed Material means the artistic or literary work, database,
+   Licensed Material means the artistic or literary work, database,
      or other material to which the Licensor applied this Public
      License.
 
-  g. Licensed Rights means the rights granted to You subject to the
+  . Licensed Rights means the rights granted to You subject to the
      terms and conditions of this Public License, which are limited to
      all Copyright and Similar Rights that apply to Your use of the
      Licensed Material and that the Licensor has authority to license.
 
-  h. Licensor means the individual(s) or entity(ies) granting rights
+Licensor means the individual(s) or entity(ies) granting rights
      under this Public License.
 
   i. Share means to provide material to the public by any means or
@@ -125,8 +126,7 @@ Section 1 -- Definitions.
      as amended and/or succeeded, as well as other essentially
      equivalent rights anywhere in the world.
 
-  k. You means the individual or entity exercising the Licensed Rights
-     under this Public License. Your has a corresponding meaning.
+  k. You means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning.
 
 Section 2 -- Scope.
 
@@ -209,7 +209,8 @@ Section 3 -- License Conditions.
 Your exercise of the Licensed Rights is expressly made subject to the
 following conditions.
 
-  a. Attribution.
+  a. Attribution.Control + Shift + m
+
 
        1. If You Share the Licensed Material (including in modified
           form), You must:
@@ -222,7 +223,7 @@ following conditions.
                     attribution, in any reasonable manner requested by
                     the Licensor (including by pseudonym if
                     designated);
-
+control+ shift+ m
                 ii. a copyright notice;
 
                iii. a notice that refers to this Public License;
@@ -347,8 +348,9 @@ Section 8 -- Interpretation.
      shall not be interpreted to, reduce, limit, restrict, or impose
      conditions on any use of the Licensed Material that could lawfully
      be made without permission under this Public License.
+Control + Shift + m
 
-  b. To the extent possible, if any provision of this Public License is
+  . To the extent possible, if any provision of this Public License is
      deemed unenforceable, it shall be automatically reformed to the
      minimum extent necessary to make it enforceable. If the provision
      cannot be reformed, it shall be severed from this Public License
@@ -384,3 +386,4 @@ the avoidance of doubt, this paragraph does not form part of the
 public licenses.
 
 Creative Commons may be contacted at creativecommons.org.
+esc then tabControl + Shift + 
